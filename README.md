@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook (`.ipynb` file) for a pneumonia clas
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Model Training](#Model Training)
+- [Model Training](#ModelTraining)
 - [Results](#Results)
 
 ## Introduction
@@ -18,7 +18,7 @@ Pneumonia, a deadly respiratory infection claiming the lives of over 2,000 indiv
 
 The dataset used for training and testing the model is publicly available and consists of labeled chest X-ray images. The images are categorised into two classes: Pneumonia and Normal. You can see the dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
-## Model Training
+## ModelTraining
 
 The notebook includes detailed steps for preprocessing the data, defining the model architectures, and training the models. Two models are trained:
 
